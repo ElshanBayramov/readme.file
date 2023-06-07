@@ -1,4 +1,4 @@
-    <h1 align="center">Hi 👋, I'm Elshan</h1>
+<h1 align="center">Hi 👋, I'm Elshan</h1>
 <h3 align="center">A junior Front End Developer from Azerbaijan</h3>
 <!--======================================================= "Typing" Gif =======================================================-->
 <img align="right" align="right" width="35%" height="250px" src="https://media.giphy.com/media/l2Je3ktsieOfOGa1G/giphy.gif" alt="cover"/>
